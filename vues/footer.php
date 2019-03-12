@@ -11,7 +11,7 @@
 				</div>
 				    
 				<div class="col-sm-8 contact-form">
-					<form id="contact" method="post" class="form" role="form">
+					<form id="contact" method="post" class="form" action="contactPost.php" role="form">
 						<div class="row">
 							<div class="col-xs-6 col-md-6 form-group">
 								<input class="form-control" id="name" name="name" placeholder="Name" type="text" required />

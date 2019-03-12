@@ -1,9 +1,15 @@
 		<section  class="container-fluid banner">
 			<div class="ban">
-				<img src="image/ban.jpg" alt="bannière du site">
+				<img src="image/free-3d-computer-flat-hd-wallpapers-download-1024x576.jpg" alt="bannière du site">
+
 				<div class="inner-banner">
-					<h1> Bienvenue sur mon portfolio </h1>
-					<button class="btn btn-custom" data-toggle="modal" data-target="#myModal"> Mon CV </button>
+
+					<span>
+						<h1>Bienvenue sur mon portfolio</h1>
+					</span>
+
+						<button class="btn btn-custom" data-toggle="modal" data-target="#myModal"> Mon CV </button>
+
 					<!-- Modal -->
 					<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
 					  <div class="modal-dialog" role="document">

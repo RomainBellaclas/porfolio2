@@ -10,6 +10,9 @@
 		<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 
 		<link href='https://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css'>
+		<!--Font awesome-->
+
+		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
 
 		<!-- css -->
 		<link rel="stylesheet" href="css/bootstrap.min.css">
@@ -67,7 +70,7 @@
 		<!-- end footer/contact -->
 
 		<!-- Login Modal -->
-						<div id="pageconnexion">
+						<!--<div id="pageconnexion">
 							<div class="modal fade" id="login-modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" style="display: none;">
 						    	  <div class="modal-dialog">
 										<div class="loginmodal-container">
@@ -81,7 +84,7 @@
 										</div>
 									</div>
 						  	</div>
-						</div>
+						</div>-->
 		<!-- end Login Modal -->
 
 		<!-- test -->

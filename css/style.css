@@ -167,7 +167,7 @@ body {
 
 .inner-banner {
 	position: absolute;
-	top: 35%;
+	top: 70%;
 	width: 100%;
 	text-align: center;
 }
@@ -331,3 +331,5 @@ body {
 	text-decoration: none;
 	background-color: transparent;
 }
+
+
